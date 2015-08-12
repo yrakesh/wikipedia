@@ -1,0 +1,8 @@
+HTTP/1.0 535 Internal Server Error
+Connection: close
+Content-Type: text/plain;
+Content-Length: 338
+
+Failed to create body.ts transformer: 
+scripts\html.ts:28: function XMLNode.log(Text) does not exist in namespace console; (called from XMLNode.$$(Text)).
+Invalid argument object "type:1 value:\"log\" arguments:<type:3 value:\"here\" line_number:28 is_valid:true > line_number:28 is_valid:false namespace:\"console\" is_user_called:true "

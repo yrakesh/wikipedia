@@ -1,0 +1,6 @@
+HTTP/1.0 534 Internal Server Error
+Connection: close
+Content-Type: text/plain;
+Content-Length: 56
+
+Host header '10.21.1.42' did not match project rewriters

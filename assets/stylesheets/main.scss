@@ -1,0 +1,16 @@
+@import "globals/uranium";
+@import "globals/bourbon/bourbon";
+@import "globals/bourbon_fix";
+
+// Import global base styles
+@import "globals/base";
+
+// Header & Footer
+@import "sections/header";
+@import "sections/footer";
+
+// Pages
+@import "pages/home";
+
+
+.central-featured-logo{background-image:image-url("wiki-logo.png") !important;}

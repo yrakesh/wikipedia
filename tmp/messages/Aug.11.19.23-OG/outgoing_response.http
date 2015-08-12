@@ -1,0 +1,48 @@
+HTTP/1.1 200 OK
+Server: nginx/1.9.3
+Date: Tue, 11 Aug 2015 13:53:26 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 3836
+X-Powered-By: HHVM/3.6.5
+X-Content-Type-Options: nosniff
+Cache-control: s-maxage=3600, must-revalidate, max-age=0
+Last-Modified: Fri, 31 Jul 2015 03:39:50 GMT
+X-Varnish: 47024004 47023797, 65176536, 869036578 865583596
+Via: 1.1 varnish, 1.1 varnish, 1.1 varnish
+Accept-Ranges: bytes
+Age: 2340
+X-Cache: cp1052 hit (2), cp4009 miss (0), cp4018 frontend hit (9431)
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Analytics: https=1;WMF-Last-Access=11-Aug-2015
+Connection: close
+Vary: Accept-Encoding
+X-Q-S: 200001246001215000027
+X-M-V: 5.4.121
+X-M-T: 000235000037000000000000000198
+X-S-V: local/wikipedia 
+X-I-V: /
+X-S-C: 
+X-M-P: true
+
+<!DOCTYPE html>
+<html lang="mul" dir="ltr"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!-- Sysops: Please do not edit the main template directly; update /temp and synchronise. --><meta charset="utf-8">
+<title>Wikipedia</title>
+<!--[if lt IE 7]><meta http-equiv="imagetoolbar" content="no"><![endif]--><meta name="viewport" content="initial-scale=1.0, user-scalable=yes">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico">
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/">
+<link rel="stylesheet" href="//meta.wikimedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.wm-portal&amp;only=styles&amp;skin=vector&amp;*">
+<style type="text/css">
+.central-featured-logo{background:url(//upload.wikimedia.org/wikipedia/meta/0/08/Wikipedia-logo-v2_1x.png) center center no-repeat;left:0;top:0;width:100%;height:100%}.bookshelf{display:block}.bookshelf-container{font-size:13px;font-weight:700;line-height:20px}.bookshelf-container .text{padding:0 .5em}.bookshelf-container .bookend{display:-moz-inline-stack;display:inline-block;background-image:url(//upload.wikimedia.org/wikipedia/commons/b/bd/Bookshelf-40x201_6.png);background-repeat:repeat-x;width:480px;height:20px;vertical-align:top}.otherprojects{text-align:left;float:none;width:90%;margin-left:auto;margin-right:auto}.otherprojects-item{width:24.75%;line-height:60px}.otherprojects-item a{display:block;width:10em;margin-left:auto;margin-right:auto}.otherprojects-item .icon{display:-moz-inline-stack;display:inline-block;width:47px;text-align:center}.wm-site-info{padding-top:1.5em}@media (-webkit-min-device-pixel-ratio:1.5),(min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(min-resolution:1.5dppx),(min-resolution:144dpi){.central-featured-logo{background-image:url(//upload.wikimedia.org/wikipedia/meta/d/d1/Wikipedia-logo-v2_1.5x.png);background-size:200px auto}.bookshelf-container .bookend{background-image:url(//upload.wikimedia.org/wikipedia/meta/5/52/Bookshelf-40x20_1.5x.png);background-size:40px auto}}@media (-webkit-min-device-pixel-ratio:2),(min--moz-device-pixel-ratio:2),(-o-min-device-pixel-ratio:2),(min-resolution:2dppx),(min-resolution:192dpi){.central-featured-logo{background-image:url(//upload.wikimedia.org/wikipedia/meta/b/be/Wikipedia-logo-v2_2x.png);background-size:200px auto}.bookshelf-container .bookend{background-image:url(//upload.wikimedia.org/wikipedia/meta/4/46/Bookshelf-40x20_2x.png);background-size:40px auto}}@media all and (max-width:480px){.central-featured-logo{background-size:70px auto;left:.8em;top:-70px;width:70px;height:70px}.bookshelf-container .bookend{width:40px!important}.bookshelf-container .bookend:last-child{display:none}}@media all and (max-width:45em){.otherprojects{width:100%}.otherprojects-item{width:33.33%}}@media all and (max-width:30em){.otherprojects-item{width:50%}}@media all and (max-width:20em){.otherprojects-item{width:100%}}
+</style>
+<!--[if lt IE 8]><style type="text/css">
+.bookshelf-container .bookend,.otherprojects-icon{zoom:1;display:inline}
+</style><![endif]--><link rel="canonical" href="http://www.wikipedia.org/">
+<link rel="shortcut icon" href="//mlocal.wikipedia.org/_moovweb_local_assets_/images/favicon.ico">
+<link rel="apple-touch-icon" href="//mlocal.wikipedia.org/_moovweb_local_assets_/images/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" href="//mlocal.wikipedia.org/_moovweb_local_assets_/images/apple-touch-icon-114x114.png">
+<link rel="stylesheet" type="text/css" href="//mlocal.wikipedia.org/_moovweb_local_assets_/stylesheets/.css/main.css" data-mw-keep="true">
+<script data-keep="true" type="text/javascript" src="//mlocal.wikipedia.org/_moovweb_local_assets_/javascript/main.js"></script>
+</head></html>

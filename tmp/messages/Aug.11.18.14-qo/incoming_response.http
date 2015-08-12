@@ -1,0 +1,13 @@
+HTTP/1.1 301 TLS Redirect
+Server: Varnish
+Location: https://www.wikipedia.org/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Tue, 11 Aug 2015 12:44:07 GMT
+X-Varnish: 1135618776
+Age: 0
+Via: 1.1 varnish
+Connection: close
+X-Cache: cp1052 frontend miss (0)
+Set-Cookie: WMF-Last-Access=11-Aug-2015;Path=/;HttpOnly;Expires=Sat, 12 Sep 2015 12:00:00 GMT
+

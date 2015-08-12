@@ -1,0 +1,20 @@
+HTTP/1.1 301 TLS Redirect
+Server: Varnish
+Location: https://mlocal.wikipedia.org/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Wed, 12 Aug 2015 06:22:19 GMT
+X-Varnish: 2253054382
+Age: 0
+Via: 1.1 varnish
+X-Cache: cp1053 frontend miss (0)
+Set-Cookie: WMF-Last-Access=12-Aug-2015;Path=/;HttpOnly;Expires=Sun, 13 Sep 2015 00:00:00 GMT; Domain=.wikipedia.org
+Connection: close
+Vary: Accept-Encoding
+X-Q-S: 301003030003024000002
+X-M-V: 5.4.121
+X-M-T: 000504000031000017000000000456
+X-S-V: local/wikipedia 
+X-I-V: /
+X-S-C: 
+
